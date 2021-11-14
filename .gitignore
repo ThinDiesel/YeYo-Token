@@ -5,7 +5,7 @@
 node_modules
 
 # Ignore build folder
-build
+#
 
 # Ignore all text files
 *.txt
